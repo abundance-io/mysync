@@ -7,8 +7,8 @@ Basically a small implementation of git for sharing files across local networks
 written in Rust 
 
 
-Implemented 
 
-Cross plattform File syncing 
-custom implementation of the myers diff algorithm 
-file transmission
+Implemented 
+. cross plattform File syncing 
+. custom implementation of the myers diff algorithm 
+. file transmission
