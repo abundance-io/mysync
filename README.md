@@ -10,5 +10,7 @@ written in Rust
 
 Implemented 
 . cross plattform File syncing 
+
 . custom implementation of the myers diff algorithm 
+
 . file transmission
